@@ -6,3 +6,6 @@ The purpose of the project is to predict the selling price of used cars based on
 ## Overview of the Project
 This project applies data analysis and statistical methods to predict the selling price of used cars. It leverages Python libraries like NumPy, Pandas, Matplotlib, Seaborn, and Spicy for data manipulation, visualization, and statistical testing. Key statistical tests, such as ANOVA, f-test, and p-value calculation, are performed to evaluate feature significance. Descriptive analysis explores the dataset and identifies trends, correlations, and patterns.
 By modeling the relationship between car features (e.g., make, model, age, mileage, condition) and their prices, the project delivers actionable and valuable insights for stakeholders in the used car market.
+
+## About Dataset
+The data used in this project is about cars, including details like price, color, and condition. However, raw data alone isn't useful. Data Analysis is important to process this raw data, uncover useful information, and gain new insights.
